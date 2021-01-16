@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    string text[] = {"zero","one","two","three","four","five","six","seven","eight","nine"};
+    string text[] = {"","one","two","three","four","five","six","seven","eight","nine"};
 
     cout<<"enter number ";
     int num;
